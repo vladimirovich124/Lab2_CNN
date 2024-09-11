@@ -50,7 +50,7 @@ This repository contains code for a basic training pipeline for a Convolutional 
 2. Navigate to the project directory:
 
     ```
-    cd Lab1_CNN
+    cd Lab2_CNN
     ```
 
 3. Install the required dependencies:
