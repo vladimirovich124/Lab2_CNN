@@ -1,0 +1,116 @@
+2024-08-23 09:57:41,877 - utils - INFO - Training a new model...
+2024-08-23 09:57:42,869 - utils - INFO - Epoch 1/10:
+2024-08-23 10:03:42,065 - utils - INFO - Train Loss: 1.6956, Val Loss: 1.4971, Val Acc: 0.4814
+2024-08-23 10:03:42,065 - utils - INFO - Epoch 2/10:
+2024-08-23 10:06:37,980 - utils - INFO - Train Loss: 1.3199, Val Loss: 1.2876, Val Acc: 0.5436
+2024-08-23 10:06:37,980 - utils - INFO - Epoch 3/10:
+2024-08-23 10:06:50,625 - utils - INFO - Train Loss: 1.1643, Val Loss: 1.3273, Val Acc: 0.5576
+2024-08-23 10:06:50,625 - utils - INFO - Epoch 4/10:
+2024-08-23 10:07:03,329 - utils - INFO - Train Loss: 0.9746, Val Loss: 1.1469, Val Acc: 0.6017
+2024-08-23 10:07:03,329 - utils - INFO - Epoch 5/10:
+2024-08-23 10:07:15,949 - utils - INFO - Train Loss: 0.9610, Val Loss: 1.3173, Val Acc: 0.5700
+2024-08-23 10:07:15,949 - utils - INFO - Epoch 6/10:
+2024-08-23 10:07:28,586 - utils - INFO - Train Loss: 0.8309, Val Loss: 1.2518, Val Acc: 0.5917
+2024-08-23 10:07:28,586 - utils - INFO - Epoch 7/10:
+2024-08-23 10:07:41,894 - utils - INFO - Train Loss: 0.5928, Val Loss: 1.3376, Val Acc: 0.5844
+2024-08-23 10:07:41,894 - utils - INFO - Epoch 8/10:
+2024-08-23 10:07:54,740 - utils - INFO - Train Loss: 0.4983, Val Loss: 1.3418, Val Acc: 0.6033
+2024-08-23 10:07:54,740 - utils - INFO - Epoch 9/10:
+2024-08-23 10:08:07,462 - utils - INFO - Train Loss: 0.3848, Val Loss: 1.5152, Val Acc: 0.5901
+2024-08-23 10:08:07,462 - utils - INFO - Early stopping triggered. Training stopped.
+2024-08-23 10:10:34,433 - utils - INFO - Training a new model...
+2024-08-23 10:10:35,403 - utils - INFO - Epoch 1/10:
+2024-08-23 10:15:38,810 - utils - INFO - Train Loss: 1.5481, Val Loss: 1.3288, Val Acc: 0.5333
+2024-08-23 10:15:38,810 - utils - INFO - Epoch 2/10:
+2024-08-23 10:15:59,898 - utils - INFO - Train Loss: 1.1855, Val Loss: 1.2034, Val Acc: 0.5747
+2024-08-23 10:15:59,898 - utils - INFO - Epoch 3/10:
+2024-08-23 10:22:34,747 - utils - INFO - Train Loss: 1.0509, Val Loss: 1.1181, Val Acc: 0.6122
+2024-08-23 10:22:34,747 - utils - INFO - Epoch 4/10:
+2024-08-23 10:26:28,912 - utils - INFO - Train Loss: 0.9080, Val Loss: 1.0706, Val Acc: 0.6218
+2024-08-23 10:26:28,912 - utils - INFO - Epoch 5/10:
+2024-08-23 10:26:50,314 - utils - INFO - Train Loss: 0.7762, Val Loss: 1.0390, Val Acc: 0.6421
+2024-08-23 10:26:50,314 - utils - INFO - Epoch 6/10:
+2024-08-23 10:27:11,783 - utils - INFO - Train Loss: 0.6247, Val Loss: 1.0698, Val Acc: 0.6509
+2024-08-23 10:27:11,783 - utils - INFO - Epoch 7/10:
+2024-08-23 10:27:32,910 - utils - INFO - Train Loss: 0.5733, Val Loss: 1.0895, Val Acc: 0.6577
+2024-08-23 10:27:32,910 - utils - INFO - Epoch 8/10:
+2024-08-23 10:27:54,036 - utils - INFO - Train Loss: 0.4514, Val Loss: 1.1929, Val Acc: 0.6481
+2024-08-23 10:27:54,036 - utils - INFO - Epoch 9/10:
+2024-08-23 10:28:15,091 - utils - INFO - Train Loss: 0.3501, Val Loss: 1.2519, Val Acc: 0.6475
+2024-08-23 10:28:15,091 - utils - INFO - Epoch 10/10:
+2024-08-23 10:28:36,157 - utils - INFO - Train Loss: 0.3008, Val Loss: 1.3386, Val Acc: 0.6468
+2024-08-23 10:28:36,157 - utils - INFO - Early stopping triggered. Training stopped.
+2024-08-30 19:19:55,831 - utils - INFO - Training a new model...
+2024-08-30 19:20:25,109 - utils - INFO - Epoch 1/10:
+2024-08-30 19:30:20,093 - utils - INFO - Train Loss: 1.7298, Val Loss: 1.5420, Val Acc: 0.4565
+2024-08-30 19:30:20,093 - utils - INFO - Epoch 2/10:
+2024-08-30 19:40:30,301 - utils - INFO - Train Loss: 1.4931, Val Loss: 1.3750, Val Acc: 0.5213
+2024-08-30 19:40:30,309 - utils - INFO - Epoch 3/10:
+2024-08-30 19:52:08,601 - utils - INFO - Train Loss: 1.2426, Val Loss: 1.7919, Val Acc: 0.4212
+2024-08-30 19:52:08,601 - utils - INFO - Epoch 4/10:
+2024-08-30 20:02:35,460 - utils - INFO - Train Loss: 1.1208, Val Loss: 1.1405, Val Acc: 0.5983
+2024-08-30 20:02:35,460 - utils - INFO - Epoch 5/10:
+2024-08-30 20:12:29,727 - utils - INFO - Train Loss: 1.3521, Val Loss: 1.2383, Val Acc: 0.5701
+2024-08-30 20:12:29,727 - utils - INFO - Epoch 6/10:
+2024-08-30 20:22:08,104 - utils - INFO - Train Loss: 1.0280, Val Loss: 1.1321, Val Acc: 0.6088
+2024-08-30 20:22:08,104 - utils - INFO - Epoch 7/10:
+2024-08-30 20:31:41,051 - utils - INFO - Train Loss: 1.0580, Val Loss: 1.2129, Val Acc: 0.5745
+2024-08-30 20:31:41,051 - utils - INFO - Epoch 8/10:
+2024-08-30 20:43:03,959 - utils - INFO - Train Loss: 1.0680, Val Loss: 1.2312, Val Acc: 0.5961
+2024-08-30 20:43:03,959 - utils - INFO - Epoch 9/10:
+2024-08-30 20:52:34,723 - utils - INFO - Train Loss: 1.0635, Val Loss: 1.0965, Val Acc: 0.6210
+2024-08-30 20:52:34,723 - utils - INFO - Epoch 10/10:
+2024-08-30 21:02:06,755 - utils - INFO - Train Loss: 0.7626, Val Loss: 1.1420, Val Acc: 0.6225
+2024-08-31 07:31:44,857 - utils - INFO - Training a new model...
+2024-08-31 07:31:45,326 - utils - INFO - Epoch 1/10:
+2024-08-31 11:46:46,061 - utils - INFO - Training a new model...
+2024-08-31 11:46:46,512 - utils - INFO - Epoch 1/10:
+2024-08-31 11:48:38,614 - utils - INFO - Training a new model...
+2024-08-31 11:48:38,975 - utils - INFO - Epoch 1/10:
+2024-08-31 11:53:31,439 - utils - INFO - Training a new model...
+2024-08-31 11:53:31,932 - utils - INFO - Epoch 1/10:
+2024-08-31 11:55:36,811 - utils - INFO - Train Loss: 1.8904, Val Loss: 1.4962, Val Acc: 0.4603
+2024-08-31 11:55:36,811 - utils - INFO - Epoch 2/10:
+2024-08-31 11:57:41,766 - utils - INFO - Train Loss: 1.4622, Val Loss: 1.7584, Val Acc: 0.4323
+2024-08-31 11:57:41,766 - utils - INFO - Epoch 3/10:
+2024-08-31 11:59:38,180 - utils - INFO - Train Loss: 1.1566, Val Loss: 1.4196, Val Acc: 0.5083
+2024-08-31 11:59:38,180 - utils - INFO - Epoch 4/10:
+2024-08-31 12:01:40,375 - utils - INFO - Train Loss: 0.9815, Val Loss: 1.4178, Val Acc: 0.5210
+2024-08-31 12:01:40,375 - utils - INFO - Epoch 5/10:
+2024-08-31 12:03:39,055 - utils - INFO - Train Loss: 0.8173, Val Loss: 2.5526, Val Acc: 0.4453
+2024-08-31 12:03:39,055 - utils - INFO - Epoch 6/10:
+2024-08-31 12:05:35,968 - utils - INFO - Train Loss: 0.8287, Val Loss: 1.5818, Val Acc: 0.5083
+2024-08-31 12:05:35,968 - utils - INFO - Epoch 7/10:
+2024-08-31 12:07:32,197 - utils - INFO - Train Loss: 0.6014, Val Loss: 1.8264, Val Acc: 0.5087
+2024-08-31 12:07:32,197 - utils - INFO - Epoch 8/10:
+2024-08-31 12:09:50,381 - utils - INFO - Train Loss: 0.6259, Val Loss: 1.7538, Val Acc: 0.5030
+2024-08-31 12:09:50,381 - utils - INFO - Epoch 9/10:
+2024-08-31 12:12:06,977 - utils - INFO - Train Loss: 0.4333, Val Loss: 1.9955, Val Acc: 0.4963
+2024-08-31 12:12:06,977 - utils - INFO - Early stopping triggered. Training stopped.
+2024-08-31 12:25:09,379 - utils - INFO - Training a new model...
+2024-08-31 12:25:09,894 - utils - INFO - Epoch 1/10:
+2024-08-31 12:29:11,503 - utils - INFO - Train Loss: 1.7303, Val Loss: 1.4025, Val Acc: 0.4942
+2024-08-31 12:29:11,503 - utils - INFO - Epoch 2/10:
+2024-08-31 12:32:53,436 - utils - INFO - Train Loss: 1.6084, Val Loss: 1.8485, Val Acc: 0.4392
+2024-08-31 12:32:53,436 - utils - INFO - Epoch 3/10:
+2024-08-31 12:36:38,424 - utils - INFO - Train Loss: 1.3135, Val Loss: 1.3653, Val Acc: 0.5110
+2024-08-31 12:36:38,424 - utils - INFO - Epoch 4/10:
+2024-08-31 12:40:23,229 - utils - INFO - Train Loss: 1.1339, Val Loss: 1.2930, Val Acc: 0.5515
+2024-08-31 12:40:23,229 - utils - INFO - Epoch 5/10:
+2024-08-31 12:44:07,656 - utils - INFO - Train Loss: 1.2003, Val Loss: 1.4564, Val Acc: 0.5193
+2024-08-31 12:44:07,656 - utils - INFO - Epoch 6/10:
+2024-08-31 12:47:52,992 - utils - INFO - Train Loss: 0.9746, Val Loss: 1.3030, Val Acc: 0.5672
+2024-08-31 12:47:52,992 - utils - INFO - Epoch 7/10:
+2024-08-31 12:51:39,450 - utils - INFO - Train Loss: 0.7594, Val Loss: 1.5388, Val Acc: 0.5302
+2024-08-31 12:51:39,450 - utils - INFO - Epoch 8/10:
+2024-08-31 12:55:27,345 - utils - INFO - Train Loss: 0.6821, Val Loss: 1.4621, Val Acc: 0.5438
+2024-08-31 12:55:27,345 - utils - INFO - Epoch 9/10:
+2024-08-31 12:59:13,047 - utils - INFO - Train Loss: 0.6839, Val Loss: 1.4713, Val Acc: 0.5368
+2024-08-31 12:59:13,047 - utils - INFO - Early stopping triggered. Training stopped.
+2024-09-09 10:52:36,468 - utils - INFO - Training a new model...
+2024-09-09 10:52:37,390 - utils - INFO - Epoch 1/10:
+2024-09-09 10:53:56,973 - utils - INFO - Training a new model...
+2024-09-09 10:53:57,381 - utils - INFO - Epoch 1/10:
+2024-09-09 10:59:23,613 - utils - INFO - Training a new model...
+2024-09-09 11:00:05,793 - utils - INFO - Training a new model...
+2024-09-09 11:00:20,591 - utils - INFO - Epoch 1/10:

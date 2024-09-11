@@ -1,0 +1,9 @@
+__pycache__/
+data/
+batches/
+trained_model.pth/
+training.log/
+combined_batches_1/
+combined_batches_1-2/
+combined_batches_1-3-5/
+combined_batches_1-2-3-4-5/
